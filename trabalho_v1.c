@@ -45,7 +45,7 @@ void att_matriz(int i){
 	float u1[TAM][TAM], u2[TAM][TAM];
 	int ix, iy;
 
-	printf("\n\nPrimeira atualização: \n\n");
+	printf("\n\nPrimeira atualizaÃ§Ã£o: \n\n");
    
     for (ix = 1; ix <= TAM -2; ix++) {
         for (iy = 1; iy <= TAM -2; iy++) {
