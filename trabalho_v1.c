@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
+#include <locale.h>
 #define TAM 15
 
 void primeira_matriz(int i){
