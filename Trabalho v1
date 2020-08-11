@@ -1,7 +1,7 @@
 // 1 - Mostrar a matriz inicial, antes de atualizar.
-// 2 - Mostrar para cada atualização que representa o esfriamento com o passar do tempo.
-// 3 - Funções de iniciar matriz, escrever , etc.
-// 4 - cx e cy são constante, 0.1 ou 0.01 no valor delas.
+// 2 - Mostrar para cada atualizaÃ§Ã£o que representa o esfriamento com o passar do tempo.
+// 3 - FunÃ§Ãµes de iniciar matriz, escrever , etc.
+// 4 - cx e cy sÃ£o constante, 0.1 ou 0.01 no valor delas.
 
 #include <locale.h>
 #include <string.h>
