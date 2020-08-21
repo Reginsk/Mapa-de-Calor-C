@@ -28,7 +28,7 @@ int main (){
 	ref->cy=0.1;
 			
 	if(ref == NULL){
-		printf("Não foi possível alocar memória\n");
+		printf("NÃ£o foi possÃ­vel alocar memÃ³ria\n");
 	}
 	
 	carregar_m1(ref);
